@@ -1,0 +1,33 @@
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.Properties.Resources.resources
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.csproj.GenerateResource.cache
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.AssemblyInfoInputs.cache
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.AssemblyInfo.cs
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.csproj.CoreCompileInputs.cache
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\bin\Debug\netcoreapp3.1\Application1.exe
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\bin\Debug\netcoreapp3.1\Application1.deps.json
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\bin\Debug\netcoreapp3.1\Application1.runtimeconfig.json
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\bin\Debug\netcoreapp3.1\Application1.runtimeconfig.dev.json
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\bin\Debug\netcoreapp3.1\Application1.dll
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\bin\Debug\netcoreapp3.1\Application1.pdb
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.dll
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.pdb
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.genruntimeconfig.cache
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Application1.csproj.AssemblyReference.cache
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\bin\Debug\netcoreapp3.1\Application1.exe
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\bin\Debug\netcoreapp3.1\Application1.deps.json
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\bin\Debug\netcoreapp3.1\Application1.runtimeconfig.json
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\bin\Debug\netcoreapp3.1\Application1.runtimeconfig.dev.json
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\bin\Debug\netcoreapp3.1\Application1.dll
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\bin\Debug\netcoreapp3.1\Application1.pdb
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.Properties.Resources.resources
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.csproj.GenerateResource.cache
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.AssemblyInfoInputs.cache
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.AssemblyInfo.cs
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.csproj.CoreCompileInputs.cache
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.dll
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.pdb
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\Application1.genruntimeconfig.cache
+C:\Users\lazy\source\repos\WinFormsApp3\BenXin Wang_30026697\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources

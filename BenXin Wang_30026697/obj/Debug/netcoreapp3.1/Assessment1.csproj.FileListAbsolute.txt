@@ -1,0 +1,8 @@
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Assessment1.Properties.Resources.resources
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Assessment1.csproj.GenerateResource.cache
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Assessment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Assessment1.AssemblyInfoInputs.cache
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Assessment1.AssemblyInfo.cs
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Assessment1.csproj.CoreCompileInputs.cache
+C:\Users\lazy\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\netcoreapp3.1\Assessment1.Form1.resources
